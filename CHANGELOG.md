@@ -2,6 +2,7 @@
 
 ## v7.0.0
 
+- add racetrack-boat
 - (breaking) Change `layouts` export to access list from `layouts.all` #457
 - add arrow icon
 - add lighthouse-JP icon
